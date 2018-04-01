@@ -7,7 +7,8 @@ The project itself was programmed in JavaScript / Node.js.
 
 # Mining Rewards Simulation
 
-After the first block is mined in the Blockchain, it has a pending rewards to grant to the account address. If it successfully mines the next block it will receive the reward and have it added to the account balance itself. Each successful mining operation afterwards repeats this process. 
+To begin, the Mining Reward that a successful mined Block can grant is 50.
+After the first block is mined in the Blockchain, it has pending rewards to grant to the account address. If it successfully mines the next block it will receive the reward and have it added to the account balance itself. Each successful mining operation afterwards repeats this process by granting rewards. 
 
 ![alt](https://preview.ibb.co/cSFv5S/block.jpg)
 
