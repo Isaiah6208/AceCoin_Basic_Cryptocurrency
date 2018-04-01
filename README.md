@@ -2,6 +2,7 @@
 A small project that demonstrates basic cryptocurrency functions for the cryptocurrency *AceCoin* such as transactions and rewards upon successfully mining a Block within the Blockchain itself. This Blockchain utilizes Proof-of-Work to prevent spammers. It's important to mention that this was created specifically to learn how exactly Blockchains work in relation to Cryptoscurrencies, which explains why it's considered to be labeled "basic".
 
 The documented code for the Blockchain itself can be viewed in the main.js file to view how the basic cryptocurrency operates.
+The project itself was programmed in JavaScript / Node.js.
 
 
 # Mining Rewards Simulation
