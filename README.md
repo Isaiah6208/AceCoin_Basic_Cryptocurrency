@@ -3,5 +3,8 @@ A small project that demonstrates basic cryptocurrency functions for the cryptoc
 
 
 # Mining Rewards Simulation
+
+After the first block is mined in the Blockchain, it has a pending rewards to grant to the account address. If it successfully mines the next block it will receive the reward and have it added to the account balance itself. Each successful mining operation afterwards repeats this process. 
+
 ![alt](https://preview.ibb.co/cSFv5S/block.jpg)
 
